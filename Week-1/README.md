@@ -10,3 +10,5 @@
 - The browser uses the CSS (Cascading Style Sheets) code to apply styles to the elements in the DOM tree, and renders the web page on the screen.
 
 This process is simplified and there may be additional steps involved, such as SSL/TLS handshake for secure connections, caching, and compression. Nonetheless, the diagram above provides a basic overview of how a web browser fetches a web page when a user enters a URL.
+
+![alt text](https://github.com/pesto-students/p10-harsh-raj-himanshu94hg/blob/master/Week-1/excercise1.1.png?raw=true)
